@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+}
+body h1{
+    background-color: aqua;
+    width: max-content;
+    padding: 10px;
+    
+}
+.submit{
+    background-color: bisque;
+    padding: 3px;
+}
